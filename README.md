@@ -53,7 +53,8 @@ assign Y = J & ~Qt | ~K & Qt;
 endmodule
 ```
 ```
-developed by: PRAGADEESH.M  reg no: 212225040309
+developed by: Gokulan S
+register number: 212225230078
 ```
 **RTL LOGIC FOR FLIPFLOPS**
 
